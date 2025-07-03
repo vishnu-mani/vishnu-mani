@@ -1,8 +1,9 @@
-<h3 align="left">Hi 👋! <br>My name is Vishnu M and I'm a Frontend developer, from India</h3>
+<h3 align="left">Vishnu M</h3>
+<h4 align="left">I'm a passionate frontend developer from India 🇮🇳 </h4>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnu-mani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu-mani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -10,13 +11,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/vishnum93/" target="_blank">
+  <a href="https://www.linkedin.com/in/vishnum93/" target="_new">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/vishnum" target="_blank">
+  <a href="https://www.hackerrank.com/vishnum" target="_new">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  <a href="https://cssbattle.dev/player/robocoder" target="_blank">
+  <a href="https://cssbattle.dev/player/robocoder" target="_new">
     <img src="https://img.shields.io/static/v1?message=cssbattle&logo=cssbattle&label=&color=ffdf00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cssbattle logo"  />
   </a>
 </div>

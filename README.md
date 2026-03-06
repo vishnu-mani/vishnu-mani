@@ -47,17 +47,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [openLibrarySearch](https://github.com/vishnu-mani/openLibrarySearch) | Search interface powered by the Open Library API | Vue |
-| [evident-vue](https://github.com/vishnu-mani/evident-vue) | Vue 3 Interview Assignment | Vue 3 |
-| [parkinglot](https://github.com/vishnu-mani/parkinglot) | Parking slot allocation system | Python |
-| [roman-numeral-calculator](https://github.com/vishnu-mani/roman-numeral-calculator) | CLI calculator for Roman numeral arithmetic | Python |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
